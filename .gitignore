@@ -1,0 +1,7 @@
+vosk-model-ar/
+vosk-model-en/
+reply.mp3
+__pycache__/
+.venv/
+venv/
+*.pyc
